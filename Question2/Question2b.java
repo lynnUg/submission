@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
+//find words
 public class Question2b 
 {
 	public static void main(String[] args) throws IOException {
