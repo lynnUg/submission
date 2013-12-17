@@ -6,4 +6,4 @@ This submission consists of two parts:
 
 The dashboard folder is a django web app that shows the locations of the different user.Link to web app http://dashboardlynn.herokuapp.com/
 
--Question 2 consists of the two questions in part 2a and 2b
+-Question 2 consists of the two questions in part 2a and 2b .
