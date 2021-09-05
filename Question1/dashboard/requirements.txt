@@ -6,7 +6,7 @@ django-apptemplates==0.0.1
 git+git://github.com/lynnUg/django-registration-10.git@master
 django-secretballot==0.2.3
 docutils==0.11
-gunicorn==17.5
+gunicorn==19.5.0
 lockfile==0.9.1
 psycopg2==2.5.1
 pydns==2.3.6
